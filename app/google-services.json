@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991414447263",
+    "firebase_url": "https://silento-55c16.firebaseio.com",
+    "project_id": "silento-55c16",
+    "storage_bucket": "silento-55c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991414447263:android:993cb1a84984259b1906aa",
+        "android_client_info": {
+          "package_name": "com.example.silento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991414447263-ofhbptuvtkl4p69kdocok7ddkn1614hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.silento",
+            "certificate_hash": "0752478e5aba2ac58f5a0fb885e48ee19c427b6c"
+          }
+        },
+        {
+          "client_id": "991414447263-oh3ne4kh321b5nmvbvonoti9ngglfnea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8d3G_HB3z9EiLz7pahE4K_uXx0ULk8-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991414447263-oh3ne4kh321b5nmvbvonoti9ngglfnea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
